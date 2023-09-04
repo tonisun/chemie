@@ -1,4 +1,5 @@
 # Chemie
+![Logo](/docs/resources/logo.png)
 
 UK-en:
 This is an Open Source Project. Using Enum as Datasource.
